@@ -4,7 +4,3 @@ def hello_world_function():
 
 def adding(x,y):
     return x+y
-
-def sub(x,y):
-    return x-y
-
